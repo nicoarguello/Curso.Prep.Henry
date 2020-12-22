@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(226, 227, 238);
+    
+
+}
+img {
+    border-style: solid;
+    border-width: 1;
+    
+}
+
+.completo {  /* esto me centra el archivo en la pantalla con un ancho del 80% */
+    width: 80%;
+    margin : 0 auto;
+    background-color: rgb(189, 188, 214);
+    padding: 15;
+}
+
+legend {
+    border-style: solid;
+    border-width: 0.5;
+    border-color: teal;
+    background-color: rgb(164, 148, 228);
+    padding: 10;
+
+}
+
+fieldset{
+    border-style: solid;
+    border-width: .5;
+    border-color: teal;
+    background-color: rgb(127, 145, 196);
+}
